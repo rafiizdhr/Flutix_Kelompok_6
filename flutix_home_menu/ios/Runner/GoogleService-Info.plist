@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDyNHbZ09g1EY9bAimmEA4Le3vQtOZuwR8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>124232076338</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutixHomeMenu</string>
+	<key>PROJECT_ID</key>
+	<string>flutix-a536f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutix-a536f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:124232076338:ios:b20f8c72d2ef61d5e6402b</string>
+</dict>
+</plist>
